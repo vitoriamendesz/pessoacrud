@@ -1,5 +1,5 @@
 
-package com.prova.entity;
+package com.pessoa.pessoa.entity;
 
 import jakarta.persistence.*;
 
