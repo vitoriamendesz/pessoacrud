@@ -1,5 +1,5 @@
 
-package com.prova.dto;
+package com.pessoa.pessoa.dto;
 
 public class TrabalhoDTO {
     private String cargo;
