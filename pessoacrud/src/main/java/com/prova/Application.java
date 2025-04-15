@@ -1,4 +1,4 @@
-package com.prova;
+package com.pessoa.pessoa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
