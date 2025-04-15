@@ -1,7 +1,7 @@
-package com.prova.controller;
+package com.pessoa.pessoa.controller;
 
-import com.prova.entity.Trabalho;
-import com.prova.repository.TrabalhoRepository;
+import com.pessoa.pessoa.entity.Trabalho;
+import com.pessoa.pessoa.repository.TrabalhoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
