@@ -1,10 +1,10 @@
 
-package com.prova.service;
+package com.pessoa.pessoa.service;
 
-import com.prova.dto.PessoaDTO;
-import com.prova.entity.Pessoa;
-import com.prova.entity.Trabalho;
-import com.prova.repository.PessoaRepository;
+import com.pessoa.pessoa.dto.PessoaDTO;
+import com.pessoa.pessoa.entity.Pessoa;
+import com.pessoa.pessoa.entity.Trabalho;
+import com.pessoa.pessoa.repository.PessoaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
