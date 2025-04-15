@@ -1,9 +1,9 @@
 
-package com.prova.controller;
+package com.pessoa.pessoa.controller;
 
-import com.prova.dto.PessoaDTO;
-import com.prova.entity.Pessoa;
-import com.prova.service.PessoaService;
+import com.pessoa.pessoa..dto.PessoaDTO;
+import com.pessoa.pessoa.entity.Pessoa;
+import com.pessoa.pessoa.service.PessoaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
