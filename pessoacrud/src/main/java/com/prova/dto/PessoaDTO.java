@@ -1,5 +1,5 @@
 
-package com.prova.dto;
+package com.pessoa.pessoa.dto;
 
 public class PessoaDTO {
     private String nome;
